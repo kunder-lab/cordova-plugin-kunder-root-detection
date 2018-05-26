@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-kunder-root-detection",
+  "version": "0.0.1",
+  "description": "-",
+  "cordova": {
+    "id": "cordova-plugin-kunder-root-detection",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunder-lab/cordova-plugin-kunder-root-detection"
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunder-lab/cordova-plugin-kunder-root-detection/issues"
+  },
+  "homepage": "https://github.com/kunder-lab/cordova-plugin-kunder-root-detection#readme"
+}
